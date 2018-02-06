@@ -1,0 +1,20 @@
+@import 'reset';
+
+$font-stack:'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro', 'YuGothic', 'Yu Gothic', '游ゴシック', '游ゴシック体', 'Meiryo', 'メイリオ', sans-serif;
+$primary-color: #333;
+body {
+	font: 100% $font-stack;
+	color: $primary-color;
+}
+.main {
+	width: 1000px;
+	margin: 100px auto;
+}
+.main__items {
+	display: flex;
+}
+.main__items__lead {
+	font-size: 18px;
+	text-align: center;
+	margin: 0;
+}
