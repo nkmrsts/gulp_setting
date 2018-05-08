@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^7.1.6",
+    "autoprefixer": "^8.4.1",
     "browser-sync": "^2.24.4",
     "css-mqpacker": "^6.0.1",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.0",
-    "gulp-sass": "^3.2.1",
+    "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.1"
   }
 }
